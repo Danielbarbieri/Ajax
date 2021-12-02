@@ -1,3 +1,10 @@
+<?php
+	for($i = 0; $i < 500000000; $i++){
+
+	}
+
+?>
+
 <!DOCTYPE HTML>
 <html lang="pt-br">
 	<head>
@@ -16,7 +23,7 @@
 	    <nav class="navbar navbar-light bg-light mb-4">
 	      <div class="container">
 	        <div class="navbar-brand mb-0 h1">
-	        	<h3>Requisições síncronas e assíncronas</h3>
+	        	<h3>Requisições síncronas eA assíncronas</h3>
 	        </div>
 	      </div>
 	    </nav>
@@ -24,16 +31,14 @@
 
 	    <div class="container">
 
-	    	<div class="row mb-2 d-flex justify-content-center">
-	    		<div class="col-sm-2 mb-2">
+	    	<div class="row mb-2">
+	    		<div class="col-md-4 center"></div>
+	    		<div class="col-md-4 center">
 	    			<a href="pagina_1.html" class="btn btn-primary">Página 1</a>
-	    		</div>
-	    		<div class="col-sm-2 mb-2">
 	    			<a href="pagina_2.html" class="btn btn-primary">Página 2</a>
-	    		</div>
-	    		<div class="col-sm-2 mb-2">
 	    			<a href="pagina_3.html" class="btn btn-primary">Página 3</a>
 	    		</div>
+	    		<div class="col-md-4 center"></div>
 	    	</div>
 	    	
 	    	<div class="row">
